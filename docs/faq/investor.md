@@ -1,3 +1,5 @@
+[title: FAQ / Investor]: #
+[hidden: false]: #
 # Athanor — Investor FAQ
 
 _How to evaluate, fund, and manage Tokenized Promises (TPs) on an OTC, non‑custodial protocol._  
