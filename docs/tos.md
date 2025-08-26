@@ -1,3 +1,5 @@
+[title: Master Terms of Service)]: #
+[hidden: false]: #
 # Athanor — Master Terms of Service
 
 **OTC marketplace & protocol**  
