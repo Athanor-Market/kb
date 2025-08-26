@@ -1,3 +1,5 @@
+[title: FAQ / Ambassador]: #
+[hidden: false]: #
 # Athanor — Ambassador (Referral) FAQ
 
 _How to share Athanor responsibly and earn rewards._  
