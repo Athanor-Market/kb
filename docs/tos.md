@@ -1,4 +1,4 @@
-[title: Master Terms of Service)]: #
+[title: Master Terms of Service]: #
 [hidden: false]: #
 # Athanor — Master Terms of Service
 
