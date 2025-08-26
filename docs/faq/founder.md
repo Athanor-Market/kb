@@ -1,3 +1,5 @@
+[title: FAQ / Founder]: #
+[hidden: false]: #
 # Athanor — Founder FAQ
 
 _Practical answers for listing, issuing, and running a Tokenized Promise (TP)._  
