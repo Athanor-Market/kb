@@ -1,3 +1,5 @@
+[title: FAQ / Advisor]: #
+[hidden: false]: #
 # Athanor — Advisor FAQ
 
 _How to list services, work with Founders, and stay compliant._  
