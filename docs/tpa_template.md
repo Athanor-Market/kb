@@ -1,3 +1,5 @@
+[title: Tokenized Promise Agreement (template)]: #
+[hidden: false]: #
 # Tokenized Promise Agreement (Template)
 
 **Athanor — OTC marketplace & protocol**  
