@@ -1,3 +1,5 @@
+[title: FAQ / General]: #
+[hidden: false]: #
 # Athanor — General FAQ
 
 _Plain‑language answers about our OTC marketplace & protocol_  
