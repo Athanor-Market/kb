@@ -1,3 +1,5 @@
+[title: Privacy Policy]: #
+[hidden: false]: #
 # Athanor — Privacy Policy
 
 **Last updated:** 23 August 2025
