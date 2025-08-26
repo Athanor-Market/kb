@@ -1,6 +1,7 @@
-# Athanor — Ambassador Program Terms (Clean Version)
+[title: Ambassador Program Terms]: #
+[hidden: false]: #
+# Athanor — Ambassador Program Terms
 
-**Plain‑language, professional, and fair**  
 **Last updated:** 23 August 2025
 
 > **TL;DR** — Any user in good standing can be an **Ambassador**. You get a **unique link and code**. When an invited user signs up or makes a qualifying purchase with your link/code, you earn **20% of Athanor’s platform revenue** from that user’s fees (e.g., GemScore, Explorer Pass, Advisor marketplace fees) — **never on investment amounts, issuance, or success fees** (those are excluded from the public program). Payouts are **monthly, manual**, via **fiat or crypto**. **No investment solicitation or advice.**
