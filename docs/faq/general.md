@@ -175,7 +175,41 @@ The TPA uses **Delaware law** and **binding arbitration** (AAA) in **Wilmington,
 
 ---
 
-## 25) Any final reminders?
+## 25) What is non-custodial wallet?
+A non‑custodial wallet is an app or device where **only you** control access to your crypto using **your own secrets** (a **private key** that signs transactions, and a **recovery/seed phrase** that can recreate that key). Coins don’t live “in the app” — they live on the **blockchain**; the wallet just **proves** you can move them. That’s why people say: **“Not your keys — not your funds.”**
+
+**Quick analogy:**  
+Think of the blockchain as a public, tamper‑proof **ledger**. Your wallet is a **personal safe**:
+- **Non‑custodial =** you hold the key to your safe. Lose or leak it, and funds are gone or stealable.
+- **Custodial =** someone else (e.g., an exchange) holds the key; they can freeze access or be hacked.
+
+**Need‑to‑know:**
+- Your **private key** signs sends; your **recovery/seed phrase** is the **backup** that can regenerate that key.
+- **If either is lost →** you may **lose access**. **If either is exposed →** funds can be **stolen**.
+- Transactions are **irreversible** once confirmed.
+- Keep the recovery phrase **offline**, never share/screenshot it; prefer **hardware** wallets for larger balances.
+- Neither **Athanor** nor reputable **wallet teams** will **ever** ask for your recovery phrase or private key. If someone asks, it’s a **scam**.
+- Avoid wallets that store/export your keys to their servers.
+
+**TON‑compatible wallets (for your research — not endorsements):**
+
+- **Tangem** — hardware wallet, secure element **EAL6+**: [https://tangem.com](https://tangem.com/invite/RPPTP2)
+- **Bitethus** — mobile wallet: [Get on Appstore](https://apps.apple.com/app/bitethus-crypto-wallet/id6746934140)
+- **TON Keeper** — mobile wallet: [https://tonkeeper.com/](https://tonkeeper.com/)
+- **Trust Wallet** — multi‑chain wallet: https://trustwallet.com/
+
+> These are examples only — **no guarantees** by **Athanor** or the **wallet providers**. Do your own research and use **any** wallet that supports **TON**. See more options here: [https://ton.org/en/wallets](https://ton.org/en/wallets)
+#### Why Athanor prefers non‑custodial wallets
+
+- **User control & safety:** You keep the keys; there’s **no platform counterparty risk** from Athanor holding funds. 
+- **Fits our mechanics:** TP funds sit in **on‑chain Escrow** and unlock only when **Milestones** are verified; non‑custodial wallets make this flow transparent.
+- **Regulatory clarity:** We’re an **OTC, non‑custodial protocol**, not a custodian or broker.
+- **Interoperability:** Works cleanly with **TON** today (and future networks like **Solana/EVM**), and supports direct funding (even from exchanges) while still **requiring** a non‑custodial wallet to **receive TP units** and **claim distributions**.
+
+---
+
+
+## Any final reminders?
 
 - Athanor is **experimental — open beta**. Features can change, and some actions run via CoA until fully automated.
     
