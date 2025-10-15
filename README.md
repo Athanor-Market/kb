@@ -1,14 +1,12 @@
 # Athanor Knowledge Base (KB) — Docs & Specs
 
 **OTC marketplace & non‑custodial protocol for milestone‑based funding and revenue‑share.**
-**Networks:** **TON (live)** → **Solana & EVM (planned 2025)**
+**Networks:** **Custom Tokenized Promises at any networks**
 **Why:** tech transport only; we prioritize **lower fees**, **faster execution**, and **less crowded networks** first.
 
 [![OTC](https://img.shields.io/badge/OTC-marketplace-black)](#)
 [![Non‑custodial](https://img.shields.io/badge/Non‑custodial-yes-brightgreen)](#)
-[![Rail-USDT–TON](https://img.shields.io/badge/Rail-USDT–TON-blue)](#)
 [![Open Beta](https://img.shields.io/badge/Status-open%20beta-orange)](#)
-[![Roadmap-2025](https://img.shields.io/badge/Roadmap-2025%3A%20Solana%20%2B%20EVM-grey)](#)
 
 This public repository is the **canonical documentation** for **Athanor Market, Inc.** It covers legal terms, product guides, and role‑specific FAQs. Smart‑contract specifications and addresses will be published here as they roll out.
 
@@ -21,7 +19,6 @@ This public repository is the **canonical documentation** for **Athanor Market, 
 ## What is Athanor (one‑liner)
 
 **Athanor is an OTC, non‑custodial protocol for funding startups via Tokenized Promises (equity SAFE/SAFT/direct or revenue‑share), with milestone‑based escrow unlocks, an on‑chain compliance layer (UCV), and AI due diligence (GemScore Report).**
-**Live on TON today; Solana & EVM support targeted for 2025.**
 
 ---
 

@@ -17,7 +17,7 @@ Athanor is an **over‑the‑counter (OTC)** marketplace and protocol where **Fo
 
 - **Account + KYC/AML** (required to invest and to claim any payouts).
 - **Non‑custodial TON wallet** (for receiving TP units and making claims).
-- **Optional tier** (Free / paid tiers) to adjust your **invest fee, monthly limits, and active TP limits** — check the **Investor Cabinet** in‑app for current details.
+- **Optional tier** (Free / paid tiers) to adjust your **discounts, monthly limits, and active TP limits** — check the **Investor Cabinet** in‑app for current details.
 - **Jurisdiction & eligibility** (UCV settings may require **QI** status or block your region).
 
 ---
@@ -42,7 +42,7 @@ Athanor is an **over‑the‑counter (OTC)** marketplace and protocol where **Fo
 
 1. **Link your wallet** and complete **KYC**.
     
-2. **Choose your tier** (optional) if you want lower invest fees or higher limits.
+2. **Choose your tier** (optional) if you want higher limits.
     
 3. Explore Abyss for interesting projects
     
@@ -60,7 +60,7 @@ Athanor is an **over‑the‑counter (OTC)** marketplace and protocol where **Fo
 
 - **Issuance fee — 2%** and **Success fee — 7%** exist at the platform level, but **each event is charged once** and the **Founder/Investor split is configurable** per deal so that the pieces **sum to the fee** (e.g., 1% + 1% issuance; 3% + 4% success).
     
-- Your **invest tier** may also include a **per‑invest fee** and **monthly limits**; see **Investor Cabinet** for current numbers.
+- Your **invest tier** may also include **monthly limits**; see **Investor Cabinet** for current numbers.
 
 ---
 

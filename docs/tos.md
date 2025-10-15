@@ -3,7 +3,7 @@
 # Athanor — Master Terms of Service
 
 **OTC marketplace & protocol**  
-**Last updated:** 23 August 2025
+**Last updated:** 15 October 2025
 
 **Operator.** **Athanor Market, Inc.** (Delaware, USA) (“**Athanor**,” “**we / us / our**”). We operate an **over‑the‑counter (OTC)** marketplace and protocol that helps founders, investors, and advisors collaborate around GemSeeker AI, Tokenized Promises and related tools.
 
@@ -85,7 +85,7 @@ By creating an account, opening or viewing a **Data Room**, purchasing any pass 
     
 2. **TP enablement for Founders.** Listing into Abyss, then configuring the TP via the **Tokenized Promise Wizard** (economics, **Milestones**, caps, timelines, disclosures).
     
-3. **TP support for Investors.** Non‑custodial flows to contribute **USDT‑TON**, claim distributions via **Pull‑Claim** when available, view statements, and export records.
+3. **TP support for Investors.** Non‑custodial flows to contribute stablecoins, claim distributions via **Pull‑Claim** when available, view statements, on-chain governance, and export records — coming soon, under development.
     
 4. **Advisor add‑on marketplace.** Discovery and payment rails for services **directly** between Founders and Advisors. Athanor facilitates, but is **not** a party to those engagements.
 
@@ -292,7 +292,7 @@ To keep the OTC marketplace safe, **you must not**:
 
 - **Total loss risk.** You could lose all funds contributed to a TP.
     
-- **Stablecoin / network risk.** USDT on TON and bridging mechanisms can fail; fees and confirmations can change; chain halts or forks may disrupt operations.
+- **Stablecoin / network risk.** USDT and bridging mechanisms can fail; fees and confirmations can change; chain halts or forks may disrupt operations.
     
 - **Smart‑contract risk.** Bugs or vulnerabilities — including in upgrades — may cause delays or losses.
     
